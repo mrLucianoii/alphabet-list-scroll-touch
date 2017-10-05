@@ -1,0 +1,29 @@
+{
+  "name": "alphabet-list-scroll-touch",
+  "version": "0.1.0",
+  "description": "React Native alphabet list that is scroll and touch responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrLucianoii/alphabet-list-scroll-touch.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "selectlist"
+  ],
+  "author": "Luciano S. Aldana II <luciano@brandedsolid.com> (http://go.brandedsolid.com)",
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/mrLucianoii/alphabet-list-scroll-touch/issues"
+  },
+  "homepage": "https://github.com/mrLucianoii/alphabet-list-scroll-touch#readme",
+  "engines": {
+  "node": ">=4.2.4"
+}
+  
+}
